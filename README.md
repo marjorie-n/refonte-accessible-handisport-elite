@@ -29,9 +29,9 @@ Le site existant présentait plusieurs obstacles : textes en bleu clair sur
 fond blanc, contenu gravé dans les images, structure de titres incohérente,
 et une dépendance à un constructeur de pages lourd pour un site de cinq pages.
 
-Une particularité a orienté toute la démarche : **le président de
-l'association est aveugle**. Les arbitrages d'accessibilité n'étaient donc pas
-théoriques — ils se vérifiaient avec le premier utilisateur du site.
+Les arbitrages d'accessibilité ne se sont pas faits dans l'abstrait : ils se
+vérifiaient directement auprès de l'association, dont les membres pratiquent
+quotidiennement ce que le site est censé rendre possible.
 
 ## La page d'accueil, avant et après
 
@@ -161,8 +161,5 @@ Checker · WP Accessibility · NVDA
 
 ## Liens
 
-- Site en ligne : [handisportelite.com](https://handisportelite.com)
-
----
-
-*Étude de cas publiée avec l'accord de l'association Handisport Élite.*
+- Préproduction : [staging.handisportelite.com](https://staging.handisportelite.com)
+  — *version de travail, en attente de mise en ligne*
